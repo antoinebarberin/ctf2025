@@ -220,7 +220,7 @@ The following questions pertain to the remote server:
 
 ### Python
 
-Questions 101 - 120 are the responses to the exercises in the Jupyter notebook `python_intro.ipynb`, which is in the `ctf2025` github repository. Some exercises can be solved by running the code in them; try to figure them out before running the code to get the solution.
+Questions 101 - 120 are the responses to the exercises in the Jupyter notebook `python_intro.ipynb`, which is in the `ctf2024` github repository. Some exercises can be solved by running the code in them; try to figure them out before running the code to get the solution.
 
 121 | What is the type of `a` in the code `a = [None] * 4`?
 
